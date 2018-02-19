@@ -35,4 +35,4 @@ def pg_is_ready(host, user, password, dbname):
     return False
 
 
-pg_isready(**config)
+pg_is_ready(**config)
